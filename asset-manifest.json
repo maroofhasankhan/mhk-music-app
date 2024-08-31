@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mhk-music-app/static/css/main.55445454.css",
+    "main.js": "/mhk-music-app/static/js/main.c7f89e32.js",
+    "static/js/453.2aca0b8a.chunk.js": "/mhk-music-app/static/js/453.2aca0b8a.chunk.js",
+    "index.html": "/mhk-music-app/index.html",
+    "main.55445454.css.map": "/mhk-music-app/static/css/main.55445454.css.map",
+    "main.c7f89e32.js.map": "/mhk-music-app/static/js/main.c7f89e32.js.map",
+    "453.2aca0b8a.chunk.js.map": "/mhk-music-app/static/js/453.2aca0b8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55445454.css",
+    "static/js/main.c7f89e32.js"
+  ]
+}
